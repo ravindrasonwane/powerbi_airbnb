@@ -14,8 +14,13 @@ Additionally, if certain room types or regions show lower engagement, Airbnb can
 
 # Snapshot of Dashboard (Power BI Service)
 
+Dashboard
+
 ![Image](https://github.com/user-attachments/assets/5ecba76b-d382-4850-b1ff-cd087a19eab2)
 
+Page 2
+
+![Image](https://github.com/user-attachments/assets/e34d904f-17f5-463b-8b15-e65c3bb0993e)
 ---
 
 # Insights
